@@ -1,0 +1,8 @@
+# No external dependencies required
+# All libraries used are Python built-ins:
+# sqlite3, hashlib, json, os, re, shutil, subprocess
+# datetime, threading, webbrowser, http.server, getpass
+# urllib.parse
+
+# Optional: only needed if you want to export to Excel in future
+# openpyxl
